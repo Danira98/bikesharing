@@ -17,6 +17,11 @@ The purpose of this analysis is to showcase information about the users of the b
 - What are the prime hours for bike repairs?
 
 ## Results
+
+Links for Tableau Stories:
+Module 15: https://public.tableau.com/app/profile/danira6934/viz/Module15_16702002638510/NYCStory
+Challenge: https://public.tableau.com/app/profile/danira6934/viz/NYCCitibikePresentation/FinalPresentation#1
+
 After creating our worksheets and Dashboards, we were able to create multiple stories that gave us a well-rounded report of our data.
 
 - Top starting locations: Our first visualization shows us which locations are most popular amongst the users. The darker the blue dot, the more popular our location. After some research, we found that the most popular starting location amongst tourist is Manhattan.
