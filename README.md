@@ -19,7 +19,9 @@ The purpose of this analysis is to showcase information about the users of the b
 ## Results
 
 Links for Tableau Stories:
+
 Module 15: https://public.tableau.com/app/profile/danira6934/viz/Module15_16702002638510/NYCStory
+
 Challenge: https://public.tableau.com/app/profile/danira6934/viz/NYCCitibikePresentation/FinalPresentation#1
 
 After creating our worksheets and Dashboards, we were able to create multiple stories that gave us a well-rounded report of our data.
